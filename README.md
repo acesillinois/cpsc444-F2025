@@ -1,4 +1,4 @@
-Welcome CPSC 499- FALL 24 CLASS
+Welcome CPSC 444- FALL 25 CLASS
 
 This is a repository to share datasets and code snips with you throughout the semester.
 
